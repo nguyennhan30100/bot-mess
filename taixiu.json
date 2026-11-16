@@ -1,0 +1,108 @@
+{
+  "100095311641059": {
+    "money": 1071886,
+    "lastDaily": 1794732130407,
+    "bank": 0,
+    "debt": 0,
+    "debtTime": 0,
+    "debtThread": "2137605680194029",
+    "debtNotified": false,
+    "totalPay": 32,
+    "debtOrigin": 0,
+    "historySend": [
+      {
+        "to": "100046009372713",
+        "amount": 100,
+        "content": "Anh nammmm",
+        "time": "21:57:10 15/11/2026"
+      },
+      {
+        "to": "61560196446674",
+        "amount": 10,
+        "content": "iu em",
+        "time": "21:53:17 15/11/2026"
+      }
+    ],
+    "historyReceive": []
+  },
+  "100080137345707": {
+    "money": 0,
+    "lastDaily": 1794597358017
+  },
+  "61588223157535": {
+    "money": 10000,
+    "lastDaily": 1794732192107,
+    "bank": 0,
+    "debt": 120000,
+    "debtTime": 1794756068720,
+    "debtThread": "1097374632928708",
+    "debtNotified": false,
+    "debtOrigin": 100000,
+    "totalPay": 1,
+    "historySend": [],
+    "historyReceive": []
+  },
+  "61596236305753": {
+    "money": 998000,
+    "lastDaily": 1794749722410,
+    "bank": 0,
+    "debt": 0,
+    "debtTime": 0,
+    "debtThread": "2137605680194029",
+    "debtNotified": false,
+    "totalPay": 1
+  },
+  "100064249521662": {
+    "money": 0,
+    "lastDaily": 1794739579505,
+    "bank": 0,
+    "debt": 0,
+    "debtTime": 0,
+    "debtThread": "2137605680194029",
+    "debtNotified": false
+  },
+  "61574690766111": {
+    "money": 0,
+    "lastDaily": 0
+  },
+  "100046009372713": {
+    "money": 583,
+    "lastDaily": 1794755913603,
+    "bank": 0,
+    "debt": 10000,
+    "debtTime": 1794752985004,
+    "debtThread": "1097374632928708",
+    "debtNotified": true,
+    "totalPay": 0,
+    "historyReceive": [
+      {
+        "from": "100095311641059",
+        "amount": 100,
+        "content": "Anh nammmm",
+        "time": "21:57:10 15/11/2026"
+      }
+    ],
+    "debtOrigin": 0,
+    "historySend": []
+  },
+  "61560196446674": {
+    "money": 644,
+    "lastDaily": 0,
+    "bank": 0,
+    "debt": 0,
+    "historyReceive": [
+      {
+        "from": "100095311641059",
+        "amount": 10,
+        "content": "iu em",
+        "time": "21:53:17 15/11/2026"
+      }
+    ],
+    "debtOrigin": 0,
+    "debtTime": 0,
+    "debtThread": null,
+    "debtNotified": false,
+    "totalPay": 0,
+    "historySend": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "100095311641059": {
+    "level": 4,
+    "exp": 16,
+    "linhThach": 1558,
+    "hp": 230,
+    "maxHp": 250,
+    "satThuong": 25,
+    "lastTu": 1794596981962,
+    "lastHaiThuoc": 1794596860860,
+    "lastDiemDanh": "Sat Nov 14 2026",
+    "lastNhiemVu": 0,
+    "tuiDo": {
+      "Tụ Khí Đan": 0,
+      "Hồi Xuân Đan": 0
+    },
+    "tongMon": null,
+    "linhThu": null,
+    "linhCan": "Đơn Linh Căn",
+    "heSo": 1.3,
+    "he": "⚡ Lôi"
+  },
+  "100080137345707": {
+    "level": 3,
+    "exp": 82,
+    "linhThach": 950,
+    "hp": 200,
+    "maxHp": 200,
+    "satThuong": 20,
+    "lastTu": 1794596972300,
+    "lastHaiThuoc": 1794596906315,
+    "lastDiemDanh": "Sat Nov 14 2026",
+    "lastNhiemVu": 0,
+    "tuiDo": {
+      "Tụ Khí Đan": 0,
+      "Hồi Xuân Đan": 0,
+      "Đá Ma Thuật": 1
+    },
+    "tongMon": null,
+    "linhThu": null,
+    "linhCan": "Nhị Linh Căn",
+    "heSo": 1.1,
+    "he": "💧 Thủy"
+  }
+}

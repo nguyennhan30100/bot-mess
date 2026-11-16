@@ -1,0 +1,331 @@
+{
+  "1689506915898003": {
+    "name": "",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": null,
+    "expiresAt": 0,
+    "rentedAt": 1794063595063,
+    "rentedBy": "100095311641059"
+  },
+  "1706343403705555": {
+    "name": "HAROC ESP",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": true
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": "NHTN-VIP",
+    "expiresAt": 1794571427102,
+    "rentedAt": 1793715606457,
+    "rentedBy": "100095311641059"
+  },
+  "1080930187829321": {
+    "name": "MAGIC ESP",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": null,
+    "expiresAt": 0,
+    "rentedAt": 1794314774404,
+    "rentedBy": "100095311641059"
+  },
+  "1654419853078094": {
+    "name": "",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": true,
+    "qtvonly": true,
+    "key": "NHTN-JVU6-VTBE-BSZF",
+    "expiresAt": 1794150370963,
+    "rentedAt": 1793718370963,
+    "rentedBy": "100095311641059"
+  },
+  "1102031642459172": {
+    "name": "Lol",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": "ADMIN-CAP",
+    "expiresAt": 1794571428121,
+    "rentedAt": 0,
+    "rentedBy": null
+  },
+  "1994915774516489": {
+    "name": "TD",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": "NHTN-F3AX-43ZA-2HSN",
+    "expiresAt": 1794571428630,
+    "rentedAt": 1793721096177,
+    "rentedBy": "100095311641059"
+  },
+  "2244683063094766": {
+    "name": "idmk 8h",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": true,
+    "key": "NHTN-IDMK",
+    "expiresAt": 1794571429140,
+    "rentedAt": 1793721407048,
+    "rentedBy": "61550731477970"
+  },
+  "2929747544043324": {
+    "name": "Apex Valiant Esp",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": true,
+    "key": "ADMIN-CAP",
+    "expiresAt": 1795350328860,
+    "rentedAt": 1794060246534,
+    "rentedBy": "100095311641059"
+  },
+  "1851909736936502": {
+    "name": "BOX KARED STUDIO",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": "NHTN-VIP2",
+    "expiresAt": 2744798630160,
+    "rentedAt": 1794061275929,
+    "rentedBy": "100095311641059",
+    "blacklist": {}
+  },
+  "3322667094595552": {
+    "name": "HAROC ESPORTS👑",
+    "prefix": ".",
+    "anti": {
+      "spam": true,
+      "link": true,
+      "tagall": true,
+      "boxname": true,
+      "theme": true,
+      "warns": {},
+      "thuhoi": true
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": "NHTN-VIP1",
+    "expiresAt": 1880971430661,
+    "rentedAt": 1794127180206,
+    "rentedBy": "100095311641059"
+  },
+  "1008609098952514": {
+    "name": "",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": null,
+    "expiresAt": 0,
+    "rentedAt": 0,
+    "rentedBy": null
+  },
+  "1358942299518678": {
+    "name": "",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": null,
+    "expiresAt": 0,
+    "rentedAt": 0,
+    "rentedBy": null
+  },
+  "1097374632928708": {
+    "name": "👾HAROC ACADEMY👾",
+    "prefix": ".",
+    "anti": {
+      "spam": true,
+      "link": true,
+      "tagall": true,
+      "boxname": true,
+      "theme": true,
+      "warns": {
+        "100083236182351": 3,
+        "61588223157535": 2
+      },
+      "thuhoi": true
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": "HCA",
+    "expiresAt": 1880946923553,
+    "rentedAt": 1794546923553,
+    "rentedBy": "100095311641059",
+    "blacklist": {}
+  },
+  "3701531040003664": {
+    "name": "",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": "ADMIN-CAP",
+    "expiresAt": 1880950826570,
+    "rentedAt": 0,
+    "rentedBy": null
+  },
+  "1421967373455304": {
+    "name": "",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": null,
+    "expiresAt": 0,
+    "rentedAt": 0,
+    "rentedBy": null
+  },
+  "2087055101939088": {
+    "name": "TEST BOT 1",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false,
+      "boxname": false,
+      "theme": false,
+      "warns": {}
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": "ADMIN-CAP",
+    "expiresAt": 1840506458647,
+    "rentedAt": 1794586991479,
+    "rentedBy": "100095311641059"
+  },
+  "2033619097349595": {
+    "name": "",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": null,
+    "expiresAt": 0,
+    "rentedAt": 0,
+    "rentedBy": null
+  },
+  "4071023603192124": {
+    "name": "ddd",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": null,
+    "expiresAt": 0,
+    "rentedAt": 0,
+    "rentedBy": null,
+    "blacklist": {}
+  },
+  "1721305842888370": {
+    "name": "BOX TÍNH ĐIỂM CHÍNH",
+    "prefix": ".",
+    "anti": {
+      "spam": false,
+      "link": false,
+      "tagall": false,
+      "boxname": false,
+      "theme": false,
+      "warns": {}
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": "ADMIN-CAP",
+    "expiresAt": 1881060725999,
+    "rentedAt": 0,
+    "rentedBy": null,
+    "blacklist": {}
+  },
+  "2137605680194029": {
+    "name": "🛞OTT+🎰TX KARED BOT",
+    "prefix": ".",
+    "anti": {
+      "spam": true,
+      "link": true,
+      "tagall": true,
+      "boxname": true,
+      "theme": true,
+      "warns": {
+        "100064249521662": 1
+      },
+      "thuhoi": true
+    },
+    "lockchat": false,
+    "qtvonly": false,
+    "key": "ADMIN-CAP",
+    "expiresAt": 1803394312548,
+    "rentedAt": 0,
+    "rentedBy": null,
+    "blacklist": {},
+    "notified1Day": false
+  }
+}
